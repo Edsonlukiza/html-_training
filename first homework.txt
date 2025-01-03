@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+<img src="http://www.htmldog.com/badge1.gif" width="120" height="90" alt="HTML Dog">
+    Learning HTML is fun
+</head>
+<body>
+    <p>this is my first HTML exercise</p>
+    <p> HTML helps us ctreate the structure of the webpage</p>
+</body>
+</html>
