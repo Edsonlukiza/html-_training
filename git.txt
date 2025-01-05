@@ -1,0 +1,19 @@
+install git 
+gitbash
+config git 
+create a github account.
+ 
+git config --global user.name "Your Name" by Unknown User
+Unknown User
+git config --global user.name "Your Name"
+git config --global user.email "Your email" by Unknown User
+Unknown User
+git config --global user.email "Your email"
+git config --global core.editor "code --wai... by Unknown User
+Unknown User
+git config --global core.editor "code --wait"
+ 
+git config --global core.editor "notepad" by Unknown User
+Unknown User
+git config --global core.editor "notepad"
+has context menu
